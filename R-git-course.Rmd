@@ -30,8 +30,8 @@ journalinfo: "Publication reference"
 archive: "DOI: xxx/xx"
 # Date format: '%Y %B %d' for distill
 date: "`r format(Sys.time(), '%Y %B %d')`"
-url: https://GitHubID.github.io/Repository/
-github-repo: GitHubID/Repository
+url: https://luna-saunier.github.io/R-git-course/
+github-repo: luna-saunier/R-git-course
 # Language
 lang: en-US
 otherlangs: [fr-FR,it]
